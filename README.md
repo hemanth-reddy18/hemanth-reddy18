@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Hemanth Reddy
 
- AI/ML Engineer || Python Developer || Cloud & Networking Technology Enthusiast 
+ AI Engineer || Python Developer || Cloud & Networking Technology Enthusiast 
 
 I'm passionate about building **AI-powered applications, intelligent systems, and practical software solutions**. I enjoy exploring emerging technologies, working on challenging projects, and turning ideas into real-world products.
 
