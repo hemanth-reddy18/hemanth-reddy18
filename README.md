@@ -14,7 +14,7 @@ I'm passionate about building **AI-powered applications, intelligent systems, an
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ hemanth-reddy-6493121ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:decidesolutionsorg@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hemanth-reddy-6493121ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:decidesolutionsorg@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
