@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Hemanth Reddy
+# Hey !! Hemanth Reddy here ; 
 
  AI Engineer || Python Developer || Cloud & Networking Technology Enthusiast 
 
