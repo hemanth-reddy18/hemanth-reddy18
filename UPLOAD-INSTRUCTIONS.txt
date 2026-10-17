@@ -1,0 +1,8 @@
+GITHUB PROFILE INSTALLATION
+
+1. Open https://github.com/hemanth-reddy18/hemanth-reddy18
+2. Upload the assets folder to the REPOSITORY ROOT (not inside another folder).
+3. Open the root README.md, click Edit, replace its content with the supplied README.md text, then commit.
+4. Refresh https://github.com/hemanth-reddy18
+
+Note: GitHub profile READMEs cannot replace native GitHub navigation or show arbitrary interactive HTML/CSS. The dashboard design uses static graphics and working links. The real contribution graph remains GitHub-native.
