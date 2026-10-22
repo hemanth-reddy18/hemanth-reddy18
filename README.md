@@ -1,9 +1,6 @@
-```bash
-$ whoami
-> V. Hemanth Kumar Reddy
-> Systems Engineer & On-Device AI Developer @ Bengaluru, IN
 
-$ cat ~/.focus
+IN
+
 [ "On-Device AI & Native macOS Tooling",
   "Privacy-First, Zero-Storage Architecture",
   "High-Performance Full-Stack TypeScript & Python" ]
